@@ -6,7 +6,7 @@ import DateTime from './components/DateTime';
 import WeatherScroll from './components/WeatherScroll';
 
 const img = require('./assets/bg2.jpg')
-const API_KEY ='950d8797379a275381c49f56d1db293e';
+const API_KEY ='xxxxxxxxxxxxxxxxxxxxxxxxxx';
 
 export default function App() {
 
