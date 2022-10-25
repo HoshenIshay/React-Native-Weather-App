@@ -5,4 +5,7 @@ https://lnkd.in/dDN-MHeD
 
 I used Moment Timezone to provide hours and days in preferred formats .
 https://lnkd.in/dBCZRRQh
-<img src='https://media-exp1.licdn.com/dms/image/C4D22AQGQDs99YjgHPg/feedshare-shrink_800/0/1641665476034?e=1645660800&v=beta&t=8ogfdlty54mVLHCZFCyQs7kTV8P2gFOC3560fw8DDQA' >
+
+![‏‏צילום מסך (53)](https://user-images.githubusercontent.com/87603302/197865465-7d6e850c-5bd7-4e13-ad03-beba319b509d.png)
+![‏‏צילום מסך (49)](https://user-images.githubusercontent.com/87603302/197865537-ca57d545-1ca1-4a4b-a96b-84c33d4f5d6d.png)
+
